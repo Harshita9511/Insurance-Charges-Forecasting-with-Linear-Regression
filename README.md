@@ -1,4 +1,4 @@
-# Insurance-Charges-Forecasting-with-Linear-Regression
+# Insurance Charges Forecasting with Linear Regression
 
 ## Linear Regression Theory
 <div align="justify">
