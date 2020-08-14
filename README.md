@@ -11,7 +11,7 @@ The slope can be calculated by,
 <div align="center">m= Σ(x- x̄)(y- ȳ) / Σ(x- x̄)²</div>
 where, x̄ and ȳ are the mean of x and y, respectively.
   
-<img src="/image.png" align="center" width="500" height="400" />
+<img src="/image.png" align="center" width="650" height="400" />
 
 ## Dataset
 The dataset has been taken from Kaggle. The main objective of the analysis is to accurately forecast insurance charges. This dataset consists of 1338 rows and 7 columns.<br />
